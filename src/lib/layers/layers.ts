@@ -2,7 +2,7 @@ import { D } from "../decimal";
 
 const FINF_LOG10 = Math.log10(Number.MAX_VALUE);
 
-const LETTERS = "αβγδεζηθικλμνξοπρστυφχψωΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ";
+const LETTERS = "abcdefghijklmnopqrtuvwxyzABCDEFGHIJKLMNOPQRTUVWXYZ";
 const HIGHER_LETTERS = "ϝϛͱϻϙͳϸ";
 const HIGHER_LETTERS_2 = "☿♀♁♂♃♄♅♆♇";
 
